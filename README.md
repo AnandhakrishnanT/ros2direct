@@ -1,4 +1,4 @@
-#ros2me
+#ros2direct
 
 ROS 2 installation files. This will automatically detect your Ubuntu Release and install a compatible ROS 2 distro.
 
